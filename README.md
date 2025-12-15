@@ -1,9 +1,9 @@
-<!-- 🏎️ ANIMATED F1 HEADER -->
+<!-- 🟢 ASTON MARTIN F1 | ANIMATED HEADER -->
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif"
+  <img
+    src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"
     width="100%"
-    alt="Formula 1 Racing Animation"
+    alt="Aston Martin F1 Racing Animation"
   />
 </p>
 
@@ -14,18 +14,18 @@
 <!-- Typing effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF1E00&center=true&vCenter=true&width=550&lines=🏁+Building+Web+Apps;📱+Exploring+Flutter+%26+Dart;🌱+Always+Learning+Every+Lap" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=006F62&center=true&vCenter=true&width=600&lines=🟢+Building+Web+Apps;⚙️+Precision+Engineering+Mindset;📱+Flutter+%26+Dart;🌱+Always+Improving+Every+Lap" />
   </a>
 </p>
 
 ---
 
-<!-- SPEED LINE DIVIDER -->
+<!-- SPEED / AERO DIVIDER -->
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif"
+  <img
+    src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif"
     width="80%"
-    alt="Speed Animation"
+    alt="Aerodynamic Speed Animation"
   />
 </p>
 
@@ -41,35 +41,35 @@
 
 ---
 
-<!-- F1 GARAGE ANIMATION -->
+<!-- ASTON MARTIN GARAGE -->
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+  <img
+    src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"
     width="90%"
-    alt="F1 Garage Animation"
+    alt="F1 Garage Engineering Animation"
   />
 </p>
 
 ### 🛠 Tech Stack (Garage)
 <p>
-  <img src="https://img.shields.io/badge/HTML-E10600?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-111111?logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F1C40F?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-1E90FF?logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-006F62?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-002B2E?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-CEDC00?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-004F4F?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-000000?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-1B3A3A?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-002B2E?logo=github&logoColor=white" />
 </p>
 
 ---
 
-<!-- TELEMETRY / DATA ANIMATION -->
+<!-- DATA / TELEMETRY -->
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif"
+  <img
+    src="https://media.giphy.com/media/3o7btZ3T6y2JvZ9Eek/giphy.gif"
     width="85%"
-    alt="Telemetry Animation"
+    alt="Telemetry Data Animation"
   />
 </p>
 
@@ -81,9 +81,9 @@
 
 ---
 
-<!-- STARTING GRID ANIMATION -->
+<!-- STARTING GRID -->
 <p align="center">
-  <img 
+  <img
     src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"
     width="80%"
     alt="Starting Grid Animation"
@@ -92,12 +92,12 @@
 
 ### 🚀 Featured Projects (Starting Grid)
 
-| Nama Proyek | Deskripsi Singkat | Catatan |
-|-------------|------------------|---------|
-| **UniEvent-Admin-1** | Platform dashboard untuk pengelolaan acara, tiket, pengguna, transaksi | Admin System |
-| **college-event-pass** | Sistem penjualan dan validasi tiket acara di kampus | Ticketing |
+| Nama Proyek | Deskripsi Singkat | Fokus |
+|-------------|------------------|-------|
+| **UniEvent-Admin-1** | Platform dashboard untuk pengelolaan acara | Admin System |
+| **college-event-pass** | Sistem penjualan & validasi tiket | Ticketing |
 | **portofolioku** | Website portofolio pribadi | UI/UX |
-| **Flutter-Eviasi** | Aplikasi mobile (Flutter / Dart) | Mobile App |
+| **Flutter-Eviasi** | Aplikasi mobile | Flutter |
 | **DriveEasy** | Aplikasi sewa mobil | System Design |
 
 ---
@@ -105,13 +105,13 @@
 ### 📬 Connect With Me
 <p>
   <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF1E00?logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-006F62?logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/yourlinkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-002B2E?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/akusuma11">
-    <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-002B2E?logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -119,7 +119,7 @@
 
 <!-- 🏁 FINISH LINE -->
 <p align="center">
-  <img 
+  <img
     src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"
     width="90%"
     alt="Finish Line Flag"
@@ -127,7 +127,7 @@
 </p>
 
 <p align="center">
-  <strong>🏁 Push to the limit — keep racing forward</strong>
+  <strong>🟢 Precision. Elegance. Performance. — Aston Martin Mindset</strong>
 </p>
 
 <!-- SNAKE ANIMATION -->
