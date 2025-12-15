@@ -1,7 +1,7 @@
 <!-- 🟢 ASTON MARTIN F1 | HEADER (F1 CAR MOTION) -->
 <p align="center">
   <img
-    src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
+    src="[https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif](https://dribbble.com/shots/25445307-Lapz-Website-Scrolling-Hero-Animation?utm_source=Clipboard_Shot&utm_campaign=simonricoo&utm_content=Lapz%20-%20Website%20Scrolling%20Hero%20Animation&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=simonricoo&utm_content=Lapz%20-%20Website%20Scrolling%20Hero%20Animation&utm_medium=Social_Share)"
     width="100%"
     alt="Green Formula 1 Car Racing"
   />
