@@ -1,31 +1,33 @@
-<!-- 🟢 ASTON MARTIN F1 | ANIMATED HEADER -->
+<!-- 🟢 ASTON MARTIN F1 | HEADER (F1 CAR MOTION) -->
 <p align="center">
   <img
-    src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif"
+    src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif"
     width="100%"
-    alt="Aston Martin F1 Racing Animation"
+    alt="Green Formula 1 Car Racing"
   />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi,+I'm+Akusuma!🏎️&fontSize=42&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi,+I'm+Akusuma!&fontSize=42&fontColor=E5FFF5" />
 </p>
 
 <!-- Typing effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=006F62&center=true&vCenter=true&width=600&lines=🟢+Building+Web+Apps;⚙️+Precision+Engineering+Mindset;📱+Flutter+%26+Dart;🌱+Always+Improving+Every+Lap" />
+    <img
+      src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=006F62&center=true&vCenter=true&width=600&lines=British+Racing+Green+Mindset;Precision+Engineering+in+Code;Web+%26+Event+Systems;Always+Improving+Every+Lap"
+    />
   </a>
 </p>
 
 ---
 
-<!-- SPEED / AERO DIVIDER -->
+<!-- AERODYNAMIC FLOW (F1 SPEED LINE) -->
 <p align="center">
   <img
-    src="https://media.giphy.com/media/l0HlvtIPzPdt2usKs/giphy.gif"
+    src="https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif"
     width="80%"
-    alt="Aerodynamic Speed Animation"
+    alt="Aerodynamic Speed Lines"
   />
 </p>
 
@@ -35,25 +37,25 @@
 - 🎯 Fokus:  
   1. **UniEvent-Admin-1** — platform dashboard event kampus  
   2. **college-event-pass** — sistem penjualan tiket event kampus  
-  3. **portofolioku** — situs portofolio pribadi kamu  
-  4. Proyek lain seperti **Flutter-Eviasi**, **DriveEasy** (aplikasi sewa mobil) dan lainnya  
-- ⚡ Hobi: desain UI/UX & eksperimen dengan animasi kecil
+  3. **portofolioku** — situs portofolio pribadi  
+  4. Proyek lain seperti **Flutter-Eviasi**, **DriveEasy** dan lainnya  
+- ⚡ Hobi: desain UI/UX & micro-interaction
 
 ---
 
-<!-- ASTON MARTIN GARAGE -->
+<!-- PIT WALL / ENGINEERING -->
 <p align="center">
   <img
-    src="https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif"
-    width="90%"
-    alt="F1 Garage Engineering Animation"
+    src="https://media.giphy.com/media/xT0xeMA62E1XIlup68/giphy.gif"
+    width="85%"
+    alt="F1 Engineering & Pit Wall"
   />
 </p>
 
 ### 🛠 Tech Stack (Garage)
 <p>
   <img src="https://img.shields.io/badge/HTML-006F62?logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-002B2E?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-003B3A?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-CEDC00?logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-004F4F?logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white" />
@@ -64,16 +66,16 @@
 
 ---
 
-<!-- DATA / TELEMETRY -->
+<!-- F1 TELEMETRY -->
 <p align="center">
   <img
-    src="https://media.giphy.com/media/3o7btZ3T6y2JvZ9Eek/giphy.gif"
-    width="85%"
-    alt="Telemetry Data Animation"
+    src="https://media.giphy.com/media/26BRuo6sLetdllPAQ/giphy.gif"
+    width="80%"
+    alt="Racing Telemetry Data"
   />
 </p>
 
-### 📊 GitHub Stats (Performance)
+### 📊 GitHub Stats (Race Performance)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akusuma11&show_icons=true&theme=dark&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akusuma11&theme=dark&hide_border=true" height="150" />
@@ -81,24 +83,24 @@
 
 ---
 
-<!-- STARTING GRID -->
+<!-- GREEN F1 CAR PASSING -->
 <p align="center">
   <img
-    src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"
-    width="80%"
-    alt="Starting Grid Animation"
+    src="https://media.giphy.com/media/3o7aD4d6l0cJ8f4V6g/giphy.gif"
+    width="85%"
+    alt="Green F1 Car On Track"
   />
 </p>
 
 ### 🚀 Featured Projects (Starting Grid)
 
-| Nama Proyek | Deskripsi Singkat | Fokus |
-|-------------|------------------|-------|
-| **UniEvent-Admin-1** | Platform dashboard untuk pengelolaan acara | Admin System |
-| **college-event-pass** | Sistem penjualan & validasi tiket | Ticketing |
-| **portofolioku** | Website portofolio pribadi | UI/UX |
-| **Flutter-Eviasi** | Aplikasi mobile | Flutter |
-| **DriveEasy** | Aplikasi sewa mobil | System Design |
+| Proyek | Deskripsi |
+|------|-----------|
+| **UniEvent-Admin-1** | Dashboard manajemen event |
+| **college-event-pass** | Sistem tiket event |
+| **portofolioku** | Website portofolio |
+| **Flutter-Eviasi** | Mobile app |
+| **DriveEasy** | Aplikasi sewa mobil |
 
 ---
 
@@ -117,20 +119,20 @@
 
 ---
 
-<!-- 🏁 FINISH LINE -->
+<!-- FINISH LINE -->
 <p align="center">
   <img
-    src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"
+    src="https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif"
     width="90%"
-    alt="Finish Line Flag"
+    alt="Checkered Flag Finish"
   />
 </p>
 
 <p align="center">
-  <strong>🟢 Precision. Elegance. Performance. — Aston Martin Mindset</strong>
+  <strong>🟢 Aston Martin F1 Philosophy — Precision over aggression</strong>
 </p>
 
-<!-- SNAKE ANIMATION -->
+<!-- CONTRIBUTION SNAKE -->
 <p align="center">
   <img src="https://github.com/akusuma11/akusuma11/blob/output/github-contribution-grid-snake.svg" />
 </p>
