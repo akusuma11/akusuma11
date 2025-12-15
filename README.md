@@ -1,9 +1,17 @@
-<!-- 🏎️ Banner / Header | F1 Theme -->
+<!-- 🏎️ ANIMATED F1 HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF1E00,100:000000&height=200&section=header&text=Hi,+I'm+Akusuma!🏎️&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img 
+    src="https://media.giphy.com/media/3o6ZtaO9BZHcOjmErm/giphy.gif"
+    width="100%"
+    alt="Formula 1 Racing Animation"
+  />
 </p>
 
-<!-- Typing effect / slogan | Racing Style -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&text=Hi,+I'm+Akusuma!🏎️&fontSize=42&fontColor=ffffff" />
+</p>
+
+<!-- Typing effect -->
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=FF1E00&center=true&vCenter=true&width=550&lines=🏁+Building+Web+Apps;📱+Exploring+Flutter+%26+Dart;🌱+Always+Learning+Every+Lap" />
@@ -11,6 +19,15 @@
 </p>
 
 ---
+
+<!-- SPEED LINE DIVIDER -->
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif"
+    width="80%"
+    alt="Speed Animation"
+  />
+</p>
 
 ### 👨‍💻 About Me
 - 🔭 Saat ini bekerja di proyek terkait **web & event management**  
@@ -23,6 +40,15 @@
 - ⚡ Hobi: desain UI/UX & eksperimen dengan animasi kecil
 
 ---
+
+<!-- F1 GARAGE ANIMATION -->
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"
+    width="90%"
+    alt="F1 Garage Animation"
+  />
+</p>
 
 ### 🛠 Tech Stack (Garage)
 <p>
@@ -38,6 +64,15 @@
 
 ---
 
+<!-- TELEMETRY / DATA ANIMATION -->
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif"
+    width="85%"
+    alt="Telemetry Animation"
+  />
+</p>
+
 ### 📊 GitHub Stats (Performance)
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akusuma11&show_icons=true&theme=dark&hide_border=true" height="150" />
@@ -46,18 +81,24 @@
 
 ---
 
+<!-- STARTING GRID ANIMATION -->
+<p align="center">
+  <img 
+    src="https://media.giphy.com/media/xT0xeJpnrWC4XWblEk/giphy.gif"
+    width="80%"
+    alt="Starting Grid Animation"
+  />
+</p>
+
 ### 🚀 Featured Projects (Starting Grid)
-Berikut beberapa proyek unggulanmu (baik yang kamu buat sendiri maupun fork) yang menarik untuk ditampilkan:
 
-| Nama Proyek | Deskripsi Singkat | Catatan / Link |
-|-------------|--------------------|-----------------|
-| **UniEvent-Admin-1** | Platform dashboard untuk pengelolaan acara, tiket, pengguna, transaksi | Repository utama kamu |
-| **college-event-pass** | Sistem penjualan dan validasi tiket acara di kampus | — |
-| **portofolioku** | Website portofolio pribadi | — |
-| **Flutter-Eviasi** | Aplikasi mobile (Flutter / Dart) | — |
-| **DriveEasy** | Aplikasi sewa mobil | — |
-
-> Kamu bisa tambahkan link ke repository masing-masing agar pengunjung bisa langsung ke proyek itu.
+| Nama Proyek | Deskripsi Singkat | Catatan |
+|-------------|------------------|---------|
+| **UniEvent-Admin-1** | Platform dashboard untuk pengelolaan acara, tiket, pengguna, transaksi | Admin System |
+| **college-event-pass** | Sistem penjualan dan validasi tiket acara di kampus | Ticketing |
+| **portofolioku** | Website portofolio pribadi | UI/UX |
+| **Flutter-Eviasi** | Aplikasi mobile (Flutter / Dart) | Mobile App |
+| **DriveEasy** | Aplikasi sewa mobil | System Design |
 
 ---
 
@@ -76,8 +117,20 @@ Berikut beberapa proyek unggulanmu (baik yang kamu buat sendiri maupun fork) yan
 
 ---
 
-<!-- 🏁 Snake Animation -->
+<!-- 🏁 FINISH LINE -->
 <p align="center">
-  <img src="https://github.com/akusuma11/akusuma11/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img 
+    src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif"
+    width="90%"
+    alt="Finish Line Flag"
+  />
 </p>
 
+<p align="center">
+  <strong>🏁 Push to the limit — keep racing forward</strong>
+</p>
+
+<!-- SNAKE ANIMATION -->
+<p align="center">
+  <img src="https://github.com/akusuma11/akusuma11/blob/output/github-contribution-grid-snake.svg" />
+</p>
